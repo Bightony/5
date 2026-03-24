@@ -1,4 +1,4 @@
-module 5
+module github.com/Bightony/5
 
 go 1.26.1
 
