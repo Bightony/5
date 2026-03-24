@@ -1,8 +1,8 @@
 package main
 import (
     "fmt"
-    "5/strutil" 
-    "5/numutil"
+    "github.com/Bightony/5/strutil" 
+    "github.com/Bightony/5/numutil"
     "github.com/google/uuid"
     "github.com/fatih/color"
 )
